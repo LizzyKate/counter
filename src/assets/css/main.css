@@ -1,0 +1,4 @@
+body {
+    background:url("../img/mainBcg.png") center/cover fixed no-repeat;
+    color: var(--mainWhite);
+  }
